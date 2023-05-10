@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b899f48e66a76fb459fd4033e1d23343
+  - enabled: 1
+    path: Assets/Scenes/CenaDerrota.unity
+    guid: 4fc3c3c80b328d84d8ebd04b4dc766c8
+  - enabled: 1
+    path: Assets/Scenes/CenaVitoria.unity
+    guid: 47c0fea3287721a488befdec7f47ecec
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ceb32ee8a0b4bb94fa833d49bfa26750
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 685a445b59c188f48b8668ff2d1ccc70
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: c01c42f565387374fa8b770248e4b7a3
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala2.unity
+    guid: 5dbe3e8c556e9804eb305d7e6f683ba4
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala3.unity
+    guid: cfa3758d254f93648b2626c27ed5b187
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala4.unity
+    guid: a7c94bff6afef624894a17db412f96f1
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala5.unity
+    guid: 6639fbb4261dc0e46a2fd59099794154
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala6.unity
+    guid: f5e0d842295cc444b9d72f3b2567e290
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala7.unity
+    guid: af6ec3a1f52130945b200fea93880ee9
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala8.unity
+    guid: 19a0633a0975f0047845e3f1527f2bcd
+  - enabled: 1
+    path: Assets/Scenes/Salas/Sala9.unity
+    guid: a4e432445a12be24b840495755fcb1f2
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala1.unity
+    guid: 93ac5ce1beba85d4bb94ceee492d8966
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala2.unity
+    guid: 27909d5333718eb4cac141ca5f7c3a6d
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala3.unity
+    guid: 8b483908caf4b054886500935fc6848d
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala4.unity
+    guid: d2381949efa17ad4aa53f79c63ae6c06
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala5.unity
+    guid: 1f8e390370109474bafb8631bdfe1f48
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala6.unity
+    guid: c49a6c5573460e744bc6b19ae0e802ae
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala7.unity
+    guid: 161231a7f86497b44bc4a8aa49e9c2ae
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala8.unity
+    guid: 59fec2640708191419ab2a11586c72f5
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala9.unity
+    guid: ebff08e479ca8c24190e576125bde27c
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala10.unity
+    guid: 34fda59cd2e8ef94e816aa1c15bd6b9a
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala12.unity
+    guid: e6afe93e57202d742bf678f1dd41fd2a
+  - enabled: 1
+    path: Assets/Scenes/Salas2/F2_Sala13.unity
+    guid: 406af33e63cf89c4b92375924698f8a1
+  - enabled: 1
+    path: Assets/Scenes/Salas2/Fim.unity
+    guid: 8f5270f80eae7aa4a977768537057850
+  - enabled: 1
+    path: Assets/Scenes/Enigma.unity
+    guid: 274fd471d83d1994c8630f0baf7d75a6
+  - enabled: 1
+    path: Assets/VideoFiles/MenuTeste.unity
+    guid: 6f4bc5d56c222a74cbcdb6d7a598a0ba
+  - enabled: 1
+    path: Assets/VideoFiles/Projetor 1.unity
+    guid: 47ca14f75f37be848905b037355a50ba
+  - enabled: 1
+    path: Assets/VideoFiles/Projetor.unity
+    guid: 1f1a4bec4a8232b4c8af11af9baa14ab
+  - enabled: 1
+    path: Assets/VideoFiles/Video2.unity
+    guid: b59085fb13c349c45aeac0e01c065ac9
+  - enabled: 1
+    path: Assets/VideoFiles/Video3.unity
+    guid: 866471f63295edc42a83bb7aad9d36ea
+  - enabled: 1
+    path: Assets/VideoFiles/VideoAreaCacto.unity
+    guid: 02e77d18a3d343147bd4abf24ed3a04a
+  - enabled: 1
+    path: Assets/VideoFiles/VideoAreaProjetor.unity
+    guid: 09caa2377e84dc041babf7ca340b8a4d
+  - enabled: 1
+    path: Assets/VideoFiles/VideoAreaRoteador.unity
+    guid: d96bde415a5b19a4ea635e4e916cce3b
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: a2fd15e4ba72c9646817daaf0607b800
+  - enabled: 1
+    path: Assets/Scenes/Backroom.unity
+    guid: fb2ccb4a11aa9cd4ba433429dbb16705
+  m_configObjects: {}
